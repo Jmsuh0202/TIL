@@ -97,6 +97,12 @@ git status
 
 
 
+##### rm - rf.git
+
+remove - recursive force (강제적으로 하위 폴더를 지워줘)
+
+폴더삭제
+
 
 
 
@@ -106,3 +112,4 @@ git status
 - Ctrl + l : 명령어 위로 올리기
 
 - Ctrl + s : 저장
+
