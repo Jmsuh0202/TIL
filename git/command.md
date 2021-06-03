@@ -2,7 +2,11 @@
 
 > 기본 명령어를 정리합니다.
 
-![Git - Git]
+
+
+##### 이미지입력 
+
+![Git - Git 기초]  (command.assets/areas.png)
 
 
 
@@ -70,16 +74,33 @@ git remote remove <remote name>
 
 로컬에 저장되어 있는 커밋들을 원격저장소에 업로드 하는 명령어
 
-- 기본 사용방법
+- 기본 명령어
 
 ```bash
-git push orgin master
+git push origin master
 ```
 
 
 
 
 
-Ctrl + L : 명령어 위로 올리기
+##### status
 
-혹은 clear
+git의 현재 상태를 확인하는 명령어
+
+- 기본 명령어
+
+```bash
+git status
+```
+
+
+
+
+
+
+
+##### cf (기타)
+
+- Ctrl + L : 명령어 위로 올리기
+
